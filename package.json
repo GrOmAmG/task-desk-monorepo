@@ -1,5 +1,5 @@
 {
-  "name": "task-desk-nestjs",
+  "name": "task-desk-monorepo",
   "version": "0.0.0",
   "private": true,
   "workspaces": [
